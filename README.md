@@ -1,4 +1,3 @@
-````markdown
 # TawRay (TawRayNG)
 
 **TawRay** is a personalized and enhanced Android client based on **v2rayNG**, built to provide a smoother, modern, and user-friendly V2Ray/Xray experience — with upcoming account features and a fresh UI identity.
@@ -74,6 +73,7 @@ You can build TawRay with **Gradle Wrapper** (no Android Studio required):
 
 ```bash
 ./gradlew assembleDebug
+
 ````
 
 APK output:
